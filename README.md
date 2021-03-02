@@ -1,3 +1,5 @@
-# resume
+# RESUME
 
-[View!](http://tanphongtr.github.io/resume)
+
+
+[View](http://tanphongtr.github.io/resume)
